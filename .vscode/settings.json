@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "functional": "c",
+        "stdlib.h": "c",
+        "socket.h": "c",
+        "signal.h": "c",
+        "unistd.h": "c",
+        "wordsize.h": "c",
+        "time.h": "c",
+        "string.h": "c",
+        "types.h": "c"
+    }
+}
